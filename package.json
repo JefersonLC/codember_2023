@@ -1,0 +1,12 @@
+{
+  "name": "codember_2023",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "codember challenges",
+  "scripts": {
+    "start:1": "node challenge_01"
+  },
+  "keywords": [],
+  "author": "https://github.com/JefersonLC",
+  "license": "ISC"
+}
