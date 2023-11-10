@@ -8,7 +8,7 @@ Este proyecto contiene los desafíos resueltos de [codember](https://codember.de
 
 |Challenge |Name                                         |Detalle del reto             |Solución                    |
 |----------|---------------------------------------------|-----------------------------|----------------------------|
-|1         |Un espía está enviando mensajes encriptados. |[Ver](chalenge_01/README.md) |[Ver](chalenge_01/index.js) |
+|1         |Un espía está enviando mensajes encriptados. |[Ver](challenge_01/README.md) |[Ver](challenge_01/index.js) |
 
 
 ## Cómo usar
