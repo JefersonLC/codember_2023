@@ -22,4 +22,4 @@ function miniCompiller(message) {
   return messageToSend
 }
 
-console.log(miniCompiller(message))
+miniCompiller(message)
