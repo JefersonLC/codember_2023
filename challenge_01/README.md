@@ -15,7 +15,6 @@ El resultado será una cadena de texto con la palabra y el número de veces que 
 ¡Las palabras son ordenadas por su primera aparición en el mensaje!
 
 ## Más ejemplos:
-<center>
 
   |Ejemplo                      |Resultado         |
   |-----------------------------|------------------|
@@ -23,13 +22,11 @@ El resultado será una cadena de texto con la palabra y el número de veces que 
   |taza ta za taza              |taza2ta1za1       |
   |casas casa casasas           |casas1casa1casas1 |
 
-</center>
-
 ## Cómo resolverlo
 
 1. Resuelve el mensaje que encontrarás en este archivo: https://codember.dev/data/message_01.txt
 
-2. Envía tu solución con el comando "submit" en la terminal, por ejemplo así:
+2. Envía tu solución con el comando "submit" en la terminal, por ejemplo así: 
     ```bash
-      submit perro3gato3coche1sol1
+    submit perro3gato3coche1sol1
     ```
