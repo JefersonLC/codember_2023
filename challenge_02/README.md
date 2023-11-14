@@ -17,11 +17,11 @@ El valor numérico inicial es 0 y las operaciones deben aplicarse en elorden en 
 
 ## Ejemplos de entrada:
 
-Entrada: ***"##*&"***<br/>
+Entrada: ***"##\*&"***<br/>
 Salida esperada: ***"4"***<br/>
 Explicación: Incrementa (1), incrementa (2), multiplica (4), imprime (4).
 
-Entrada: ***"&##&*&@&"***<br/>
+Entrada: ***"&##&\*&@&"***<br/>
 Salida esperada: ***"0243"***<br/>
 Explicación: Imprime (0), incrementa (1), incrementa (2), imprime (2), multiplica (4), imprime (4), decrementa (3), imprime (3).
 
