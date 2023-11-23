@@ -6,7 +6,7 @@ Este proyecto contiene los desafíos resueltos de [codember](https://codember.de
 
 ## Challenges ⛰️
 
-|Challenge |Name                                         |Detalle del reto             |Solución                    |
+|Challenge |Nombre                                         |Detalle del reto             |Solución                    |
 |----------|---------------------------------------------|-----------------------------|----------------------------|
 |1         |Detector de patrones |[Ver](challenge_01/README.md) |[Ver](challenge_01/index.js) |
 |2         |Mini compilador |[Ver](challenge_02/README.md) |[Ver](challenge_02/index.js) |
