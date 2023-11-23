@@ -1,4 +1,4 @@
-# Secretos: Semana 02 de Codember
+# Secretos: Semana 03 de Codember
 
 Retos cumplidos de la primera semanda de Codember creado por [@midudev](https://github.com/midudev/)
 
