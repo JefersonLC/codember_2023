@@ -10,6 +10,7 @@ Este proyecto contiene los desafíos resueltos de [codember](https://codember.de
 |----------|---------------------------------------------|-----------------------------|----------------------------|
 |1         |Detector de patrones |[Ver](challenge_01/README.md) |[Ver](challenge_01/index.js) |
 |2         |Mini compilador |[Ver](challenge_02/README.md) |[Ver](challenge_02/index.js) |
+|3         |Cifrado Espía |[Ver](challenge_03/README.md) |[Ver](challenge_03/index.js) |
 
 ## Cómo usar
 
